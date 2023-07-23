@@ -1,5 +1,4 @@
 ### CustSearch
 
-#### Building a customized Serach Method for large datasets using Zincsearch SEO 
-
+#### Building a customized Search Method for large datasets using Zincsearch implementing SEO Techniques
 #### This uses a local import of the zincsearch engine and python-zincsearch-sdk
